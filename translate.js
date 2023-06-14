@@ -97,7 +97,7 @@ const translate = {
     'Centralia Fields 3': '后花园 3 (瓢虫)',
     'Centralia Fields 4': '后花园 4',
     'Centralia Fields 5': '后花园 5 (蜈蚣)',
-    'Centralia Fields 6': '后花园 6 (黄蜂)',
+    'Centralia Fields 6': '后花园 6 (大黄蜂)',
     'Centralia Fields 7': '后花园 7 (蒲公英)',
     'Centralia Maze': '后花园迷宫',
 
@@ -761,7 +761,7 @@ const translate = {
 
 
 
-    'Hornet': '黄蜂',
+    'Hornet': '大黄蜂',
     'These aren\'t quite as nice as the little bees.': '这种生物可没有小蜜蜂那么友好。',
 
 
@@ -909,7 +909,28 @@ const translate = {
 
 
     'Wasp': '黄蜂',
-    'They are ANGRY.': '它们 很 生 气 。',
+    'They are ANGRY.': '它们很生气 。',
+
+    'Cotton': '棉花',
+    'Absorbs damage taken by the flower.': '吸收花朵收到的伤害。',
+
+
+    'Root': '根',
+    'Provides additional armor but decreases movement speed. Does not stack with itself.': '提供额外的盔甲值，但会降低你的移速。无法叠加。',
+    'Flower': '花朵',
+
+
+    'Bur': '刺果',
+    'Decreases armor of affected unit.Does not stack with itself.': '降低被击中单元的盔甲值。无法叠加',
+
+    'Blood Stinger':'血刺',
+    'Deals some of the damage dealt back to the flower':'伤敌一千，自损八百',
+    'Self Damage: ':'自伤: ',
+
+    'Rubber':'橡胶',
+    'Increase knockback received':'让自己被弹得更远',
+
+
 }
 const readline = require('readline').createInterface({
     input: process.stdin,
