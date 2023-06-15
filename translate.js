@@ -220,7 +220,7 @@ const translate = {
 
 
     'Cotton': '棉花',
-    'Absorbs damage taken by the flower.': '吸收玩家受到的伤害。（效果不明）',
+    'Absorbs damage taken by the flower.': '吸收玩家受到的伤害。',
 
 
 
@@ -332,7 +332,7 @@ const translate = {
 
 
     'Orange': '橘子',
-    'A sweet citrus fruit.': '站在此地，不要走动。',
+    'A sweet citrus fruit.': '一种甜美的水果。',
 
 
 
