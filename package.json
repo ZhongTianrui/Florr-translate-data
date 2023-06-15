@@ -1,0 +1,26 @@
+{
+  "name": "florrtranslate",
+  "version": "1.0.0",
+  "description": "Florr Translate",
+  "main": "Florrtranslate.js",
+  "scripts": {
+    "test": "node Florrtranslate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhongTianrui/Florr-translate-data.git"
+  },
+  "keywords": [
+    "Florr",
+    "Translate"
+  ],
+  "author": "ztrztr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhongTianrui/Florr-translate-data/issues"
+  },
+  "homepage": "https://github.com/ZhongTianrui/Florr-translate-data#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
