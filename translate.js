@@ -893,8 +893,8 @@ const translate = {
     'Ultra': '究极',
     'Super': '至臻',
 
-    ' (Common)': '（常见）',
-    ' (Unusual)': '（少见）',
+    ' (Common)': '（普通）',
+    ' (Unusual)': '（罕见）',
     ' (Rare)': '（稀有）',
     ' (Epic)': '（史诗）',
     ' (Legendary)': '（传奇）',
